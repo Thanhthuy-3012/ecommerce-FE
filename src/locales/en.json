@@ -1,0 +1,12 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "table": "Table Example",
+    "chart": "Chart Example",
+    "not_found": "404"
+  },
+  "label": {
+    "login": "Login",
+    "loading": "Loading... Please wait"
+  }
+}
